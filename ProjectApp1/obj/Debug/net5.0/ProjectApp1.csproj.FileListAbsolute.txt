@@ -1,0 +1,16 @@
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.csproj.AssemblyReference.cache
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.AssemblyInfoInputs.cache
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.AssemblyInfo.cs
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.csproj.CoreCompileInputs.cache
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\bin\Debug\net5.0\ProjectApp1.exe
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\bin\Debug\net5.0\ProjectApp1.deps.json
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\bin\Debug\net5.0\ProjectApp1.runtimeconfig.json
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\bin\Debug\net5.0\ProjectApp1.runtimeconfig.dev.json
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\bin\Debug\net5.0\ProjectApp1.dll
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\bin\Debug\net5.0\ProjectApp1.pdb
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.dll
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\refint\ProjectApp1.dll
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.pdb
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ProjectApp1.genruntimeconfig.cache
+C:\Users\esvba\source\repos\ProjectApp1\ProjectApp1\obj\Debug\net5.0\ref\ProjectApp1.dll

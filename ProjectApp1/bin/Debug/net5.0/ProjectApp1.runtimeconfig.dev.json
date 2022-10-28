@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\esvba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\esvba\\.nuget\\packages"
+    ]
+  }
+}
